@@ -1,0 +1,8 @@
+trouver tous les string qui contiennent les mêmes lettres
+Doivent aussi faire la même longueur
+
+On compare déjà les longueurs
+Puis les lettres
+est ce que la string de l'array == à l'aléatoire de la string en argument 1?
+
+Créer un nouvel array avec ces mots
